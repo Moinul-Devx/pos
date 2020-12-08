@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntensePoS", "IntensePoS\IntensePoS.csproj", "{AEC4397B-56A2-4D52-B640-D7AB34A0F23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC4397B-56A2-4D52-B640-D7AB34A0F23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC4397B-56A2-4D52-B640-D7AB34A0F23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC4397B-56A2-4D52-B640-D7AB34A0F23F}.Debug|x64.ActiveCfg = Debug|x64
+		{AEC4397B-56A2-4D52-B640-D7AB34A0F23F}.Debug|x64.Build.0 = Debug|x64
+		{AEC4397B-56A2-4D52-B640-D7AB34A0F23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC4397B-56A2-4D52-B640-D7AB34A0F23F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC4397B-56A2-4D52-B640-D7AB34A0F23F}.Release|x64.ActiveCfg = Release|x64
+		{AEC4397B-56A2-4D52-B640-D7AB34A0F23F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B37380-2F0B-4E18-A287-26A4D527429E}
+	EndGlobalSection
+EndGlobal
